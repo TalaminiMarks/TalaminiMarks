@@ -4,7 +4,7 @@ Hello there 👋
 
 I'm an enthusiast of technology, and always searching news about the tecnologys im current study.
 
-Currently learning: Next.js, Node.js, Prisma, PostgreSQL and oder things.
+Currently learning: Next.js, Node.js, Prisma, PostgreSQL and other things.
 
 I'm from Brazil and my english is poor but im trying.
 
