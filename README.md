@@ -2,11 +2,12 @@
 
 Hello there 👋
 
-I'm an enthusiast of technology, and always searching news about the tecnologys im current study.
+I'm currently learning programming languages and how to do things properly.
+I was working on a discord bot and a web page to build RPG sheet.
 
-Currently learning: Next.js, Node.js, Prisma, PostgreSQL and other things.
+Next.js, Prisma, Python, Docker and so on.
 
-I'm from Brazil and my english is poor but im trying.
+I'm from Brazil and i trying to do my best.
 
 My e-mail and discord is below, if you want to contact me.
 
@@ -18,7 +19,7 @@ My e-mail and discord is below, if you want to contact me.
   </div>
   <br/>
   <div>
-    <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://discord.com/users/204297694573887489"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <p>marcos.talamini</p>
   </div>
 </div>
